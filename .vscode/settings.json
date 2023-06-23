@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.tabSize": 4,
+    "python.linting.enabled": true
+}
