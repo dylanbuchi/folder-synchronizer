@@ -2,8 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 # App
-src/replica/
-src/source/
+tests/replica/
+tests/source/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
