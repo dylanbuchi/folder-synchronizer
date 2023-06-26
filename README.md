@@ -8,9 +8,9 @@ A program that synchronizes two folders in one-way: source and replica.
 
 ## Installation
 
-**1** Clone this repository or download the source code.
+**1**. Clone this repository or download the source code.
 
-**2** Install the required dependencies by running `pip install -r requirements.txt` in the project directory.
+**2**. Install the required dependencies by running `pip install -r requirements.txt` in the project directory.
 
 ---
 ## Usage
