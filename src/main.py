@@ -19,7 +19,7 @@ def create_default_folders_for_sync(folder_sync_args: Namespace):
 
     for path in (folder_sync_args.source, folder_sync_args.replica):
         if not os.path.exists(path):
-            os.mkdir(path)
+            os.makedirs(path)
 
 
 def main():
